@@ -5,25 +5,25 @@
 #### Things I code with
 
 <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js" />
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript" />
-    <img alt="MySQl" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql" />
-    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass" />
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm" />
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python" />
-    <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js" />
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter" />
-    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb" />
+    <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000?logo=Node.js" />
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-000?logo=javascript" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?logo=typescript" />
+    <img alt="MySQl" src="https://img.shields.io/badge/MySQL-000?logo=mysql" />
+    <img alt="redux" src="https://img.shields.io/badge/-Redux-000?logo=redux" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-000?logo=graphql" />
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-000?logo=sass" />
+    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-000?logo=styled-components" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-000?logo=git" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-000?logo=npm" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-000?logo=php" />
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-000?logo=html5" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-000?logo=python" />
+    <img alt="d3js" src="https://img.shields.io/badge/-D3.js-000?logo=d3.js" />
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-000?logo=flutter" />
+    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-000?logo=mariadb" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-000?logo=prettier" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
 </p>
 
 #### Stats
