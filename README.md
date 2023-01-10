@@ -1,6 +1,6 @@
 ### 👋 Olá
 
-<p>I'm Simão, Fullstack developer from 🇵🇹 <b>Lisbon, Portugal.</b></p>
+<p>I'm Simão, Fullstack developer from 🇵🇹 <b>Portugal.</b></p>
 
 #### Things I code with
 
