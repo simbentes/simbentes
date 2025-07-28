@@ -27,9 +27,3 @@
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000?logo=postgresql" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?logo=mongodb" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simbentes&theme=dark&show_icons=true" width="400" alt="Simão's GitHub stats" />
-</p>
